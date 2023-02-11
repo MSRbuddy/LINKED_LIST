@@ -6,37 +6,70 @@ namespace LL_UC10
 {
    internal class Program
    {
-        internal class Node
+        public class LinkedList
         {
-            internal int data;
-            internal Node next;
-            public Node(int d)
+            Node head;
+            class Node
             {
-                data = d;
-                next = null;
+                public int data;
+                public Node next;
+                public Node(int d)
+                {
+                    data = d;
+                    next = null;
+                }
             }
-        }
-        internal Node head;
-        internal void Add(int d)
-        {
-            Node n = new Node(d);
-            if (head == null)
+            void sortedInsert(Node new_node)
             {
-                head = n;
+                Node current;
+                if(head == null || head.data >= new_node.data)
+                {
+                    new_node.next = head;
+                    head = new_node;
+                }
+                else
+                {
+                    current = head;
+                    while (current.next != null && current.next.data < current.next.data)
+                        current = current.next;
+                    new_node.next = current.next;
+                    current.next = new_node;
+                }
             }
-            n.next = head;
-            head = n;
-        }
-        static void Main(string[] args)
-        {
-            LinkedList<int> myList = new LinkedList<int>();
-            myList.AddFirst(30);
-            myList.AddLast(40);
-            myList.AddLast(56);
-            myList.AddLast(70);
-            foreach (int d in myList)
+            Node newNode(int data)
             {
-                Console.WriteLine(d);
+                Node n = new Node(data);
+                return n;
+            }
+            void printList()
+            {
+                Node temp = head;
+                while(temp != null)
+                {
+                    Console.Write(temp.data + " ");
+                    temp = temp.next;
+                }
+            }
+            public static void Main(String[] args)
+            {
+                LinkedList Llist = new LinkedList();
+                Node new_node;
+
+                new_node = Llist.newNode(56);
+                Llist.sortedInsert(new_node);
+                
+                new_node = Llist.newNode(30);
+                Llist.sortedInsert(new_node);
+                
+                new_node = Llist.newNode(40);
+                Llist.sortedInsert(new_node);
+                
+                new_node = Llist.newNode(70);
+                Llist.sortedInsert(new_node);
+
+                Console.WriteLine("Create Linked List is: ");
+                Llist.printList();
+
             }
         }
     }
