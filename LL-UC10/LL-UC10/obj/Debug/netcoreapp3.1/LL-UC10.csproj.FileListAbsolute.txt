@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.AssemblyInfo.cs
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.exe
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.deps.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.runtimeconfig.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.dll
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\bin\Debug\netcoreapp3.1\LL-UC10.pdb
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.dll
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.pdb
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC10\LL-UC10\obj\Debug\netcoreapp3.1\LL-UC10.genruntimeconfig.cache
