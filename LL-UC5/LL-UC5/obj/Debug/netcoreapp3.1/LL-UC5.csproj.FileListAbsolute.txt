@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.exe
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.deps.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.runtimeconfig.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.dll
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\bin\Debug\netcoreapp3.1\LL-UC5.pdb
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.AssemblyInfo.cs
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.dll
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.pdb
+C:\Users\USER\source\repos\LinkedList-UC1\LinkedList-UC1\LL-UC5\LL-UC5\obj\Debug\netcoreapp3.1\LL-UC5.genruntimeconfig.cache
